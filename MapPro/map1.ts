@@ -1,0 +1,10 @@
+let mycityname = new Map();
+mycityname.set(345,true)
+mycityname.set("train",45676)
+mycityname.set(false,'ink')
+mycityname.set(false,45676)
+mycityname.set(98789,45676)
+mycityname.set("true",'hello')
+mycityname.set("yes","no")
+mycityname.set("read",'ink')
+console.log(mycityname)
